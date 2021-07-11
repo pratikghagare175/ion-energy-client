@@ -6,5 +6,5 @@
 5. Submit the file.
 6. Initially the response will come along with data
    but it is still in process.
-7. After approx 16 mins when the data is updated in DB then refresh page.
-8. A Line graph will be displayed when the processing is over.
+7. After approx 16 mins when the data is updated in DB, then refresh the page.
+8. A Line graph will be displayed.
