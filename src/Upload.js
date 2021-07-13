@@ -26,7 +26,7 @@ const Upload = () => {
        if (data.success === 1) {
          setLoading(false);
          // pass the thermId received to the next component
-         history.push(`/displayStats/${data.result.thermId}`);
+         history.push(`/displayStats/2015`);
        }
      } catch (error) {
        alert(error.response.data.message);
